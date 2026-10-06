@@ -163,3 +163,12 @@ project/
 
     The frontend will run on [http://localhost:5173](http://localhost:5173).
 
+<img width="973" height="601" alt="bid6" src="https://github.com/user-attachments/assets/377fc201-cd98-414e-988b-e8278dbb8970" />
+
+<img width="1313" height="562" alt="bid5" src="https://github.com/user-attachments/assets/d9856b39-134c-4521-a9d2-e598e4042de7" />
+<img width="1351" height="554" alt="bid1" src="https://github.com/user-attachments/assets/23525fcb-63f8-41f3-9828-790ba4e52850" />
+<img width="527" height="417" alt="bid2" src="https://github.com/user-attachments/assets/5a9e7643-c021-485c-8981-955f31dbbcb9" />
+<img width="459" height="319" alt="bid3" src="https://github.com/user-attachments/assets/ae45b541-5b98-4795-8675-a8fbf05851e0" />
+<img width="1350" height="587" alt="bid4" src="https://github.com/user-attachments/assets/f9e32f1e-030a-4bc3-a711-9ec78940ee32" />
+
+
